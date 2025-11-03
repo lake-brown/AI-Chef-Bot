@@ -2,7 +2,9 @@
 
 Chef Bot is an AI-powered recipe assistant that helps you discover, generate, and manage delicious meal ideas in seconds. Just type in your ingredients or craving, and Chef Bot will whip up a recipe for you — fast, fun, and fuss-free!
 
-![Chef Bot Screenshot](./public/mainpage.png,./public/ingredients.png,./public/recipe.png)
+![Main Page](./public/mainpage.png)
+![Ingredients Page](./public/ingredients.png)
+![Recipe Page](./public/recipe.png)
 
 ---
 
